@@ -6,7 +6,7 @@
 
         <!-- script -->
         <script type="text/javascript" src="js/app.js"></script>
-
+        <script type="text/javascript" src="js/senators.js"></script>
         <!-- css -->
         <link rel="stylesheet" href="css/bootstrap.css" />
     </head>
@@ -15,14 +15,16 @@
 
         <div class="container" ng-controller="BaseController as base">
 
-            <div class="row">
-                <div class="col-xs-12">
-                    <h1>Test</h3>
-                    <p>Hello</p>
-                    <p>{{ base.message }}</p>
-                </div>
-            </div>
+          <div class="row" ng-controller="SenatorsController as senatorCtrl">
+                        <div class="col-xs-3" ng-repeat="senator in senatorCtrl.senators">
+                            <h1>{{senator.senator}}</h1>
+                            <h1>{{senator.state}}</h1>
+                            <h1>{{senator.party}}</h1>
+                            <h1>{{senator.electon}}</h1>
+                            <h1>{{senator.candidates[0].name}}</h1>
 
+                        </div>
+                    </div>
         </div>
 
     </body>

@@ -1,0 +1,25 @@
+[{
+  "state": "Alabama",
+  "senator": "Richard Shelby",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+			[
+				{
+          "name": "Richard Shelby",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Richard Shelby was born in Birmingham Alabama. He obtained his undergraduate degree, law degree and his Juris Doctorin in Alabama. Shelby was elected to Alabama Senate in 1970 and then he won the United States Senate electon in Alabama in 1986.",
+
+          "platform1": "Agrees to let unborn child to be elibile for state health insurance program.",
+          "platform2": "Agrees on notifying parents of minor of out-of-state abortions.",
+          "platform3": "Agrees on banning human cloning."
+        },
+				{ "name": "Marcus Bowman", "party": "Republican" },
+				{ "name": "John Martin", "party": "Republican" },
+        { "name": "Jonathan McConnell", "party": "Republican" },
+        { "name": "Shadrack McGill", "party": "Republican" },
+        { "name": "Charles Nana", "party": "Democratic" },
+        { "name": "Ron Crumpton", "party": "Democratic" }]
+
+  }]
