@@ -16,14 +16,20 @@
         <div class="container" ng-controller="BaseController as base">
 
           <div class="row" ng-controller="SenatorsController as senatorCtrl">
-                        <div class="col-xs-3" ng-repeat="senator in senatorCtrl.senators">
+            <table class="table table-bordered" >
+            <tr ng-repeat="senators in senatorCtrl.senators">
+                <td  ng-repeat="senator in senators">{{senator.state}}</td>
+            </tr>
+        </table>
+                        <!-- <div class="col-xs-3" ng-repeat="senator in senatorCtrl.senators">
                             <h1>{{senator.senator}}</h1>
                             <h1>{{senator.state}}</h1>
                             <h1>{{senator.party}}</h1>
-                            <h1>{{senator.electon}}</h1>
+
+                            <li><img src= {{senator.candidates[0].img}}></li>
                             <h1>{{senator.candidates[0].name}}</h1>
 
-                        </div>
+                        </div> -->
                     </div>
         </div>
 

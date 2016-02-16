@@ -10,7 +10,7 @@
           "party": "Republican",
           "incumbent": "Yes",
           "bio": "Richard Shelby was born in Birmingham Alabama. He obtained his undergraduate degree, law degree and his Juris Doctorin in Alabama. Shelby was elected to Alabama Senate in 1970 and then he won the United States Senate electon in Alabama in 1986.",
-
+          "img": "/pics/RichardShelby.jpg",
           "platform1": "Agrees to let unborn child to be elibile for state health insurance program.",
           "platform2": "Agrees on notifying parents of minor of out-of-state abortions.",
           "platform3": "Agrees on banning human cloning."
@@ -19,7 +19,1086 @@
 				{ "name": "John Martin", "party": "Republican" },
         { "name": "Jonathan McConnell", "party": "Republican" },
         { "name": "Shadrack McGill", "party": "Republican" },
-        { "name": "Charles Nana", "party": "Democratic" },
-        { "name": "Ron Crumpton", "party": "Democratic" }]
+        { "name": "Charles Nana", "party": "Democrat" },
+        { "name": "Ron Crumpton", "party": "Democrat" }]
 
-  }]
+},
+{
+  "state": "Alabama",
+  "senator": "Jeff Sessions",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Alaska",
+  "senator": "Lisa Murkowski",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+  		[
+  			{
+          "name": "Lisa Murkowski ",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Lisa Murkowski majored in economicas in Georgetown University. During the same period of time, her father, Frank Murkowski was the senator of Alaska. She assummed office in 2002 and helped the protect the health care of the Alaska Native Tribe.",
+          "img": "/pics/LisaMurkowski.jpg",
+          "platform1": "Opposes affirmative action.",
+          "platform2": "Opposes to gun control.",
+          "platform3": "Agrees to pro-choice abortion."
+        },
+  			{ "name": "Marcus Bowman", "party": "Republican" },
+  			{ "name": "Thomas Lamb", "party": "Republican" },
+        { "name": "Cean Stevens", "party": "Libertarian" }]
+},
+{
+  "state": "Alaska",
+  "senator": "Dan Sullivan",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Arizona",
+  "senator": "John McCain",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+          {
+            "name": "John McCain",
+            "party": "Republican",
+            "incumbent": "Yes",
+            "bio": "John McCain was born at a Naval Air Station in the Panama Canal Zone. His family were military officials and he followed suit. He was a Naval pilot during the Vietnam war when he was captured after ejecting from the aircraft. After torture and returning to the United States, he became interested in politics. He ran for presidency in 2008.",
+            "img": "/pics/JohnMcCain.jpg",
+            "platform1": "Agrees on strengtening the American-Mexican Border.",
+            "platform2": "Opposes to gun control.",
+            "platform3": "Agrees to help Native Americans live and deveplop land."
+          },
+          { "name": "Lennie Clark", "party": "Democrat" },
+          { "name": "Ann Kirkpatrick", "party": "Democrat" },
+          { "name": "Alex Meluskey", "party": "Republican" },
+          { "name": "David Pizer", "party": "Republican" },
+          { "name": "Clair Van Steenwyk", "party": "Republican" },
+          { "name": "Kelli Ward", "party": "Republican" }]
+    },
+      {
+        "state": "Arizona",
+        "senator": "Jeff Flake",
+        "party": "Republican",
+        "electon": "false"
+      },
+{
+  "state": "Arkansas",
+  "senator": "John Boozman",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name": "John Boozman",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "John Boozman was born in Shreveport, Louisiana and attended the University of Arkansas. He won in a U.S House of Representative sepcial electon when his predcessor resigned. He voted in favor of the Iraq Resolution that lead to the Iraq war. He became a senator after winning the 2010 senator election",
+          "img": "/pics/JohnBoozman.jpg",
+          "platform1": "Opposes the Employment Non-Discrimination Act.",
+          "platform2": "Opposes the Paycheck Fairiness Act.",
+          "platform3": "Opposes same-sex marriage."
+        },
+        { "name": "Curtis Coleman", "party": "Republican" },
+        { "name": "Conner Eldridge", "party": "Democrat" },
+        { "name": "Frank Gilbert", "party": "Libertarian" }]
+  },
+  {
+    "state": "Arkansas",
+    "senator": "Tom Cotton",
+    "party": "Republican",
+    "electon": "false"
+  },
+{
+  "state": "California",
+  "senator": "Barbara Boxer",
+  "party": "Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Kamala Harris",
+          "party": "Democrat",
+          "incumbent": "No",
+          "bio": "Kamala Harris was born in Oakland, California and attended the Harvard University. She was elected Attorney General of California in 2010. When U.S. Senator Barbara Boxer announced her retirement, Harris decided to run for U.S. Senate",
+          "img": "/pics/KamalaHarris.jpg",
+          "platform1": "Opposes individual ownership of firearms.",
+          "platform2": "Agrees and intorduced the California Homeowner's Bill of Rights.",
+          "platform3": "Opposes death penalty."
+        },
+        { "name": "Loretta Sanchez", "party": "Democrat" },
+        { "name": "Tom Del Beccaro", "party": "Republican" },
+        { "name": "Duf Sundheim ", "party": "Republican" }]
+  },
+  {
+    "state": "California",
+    "senator": "Dianne Feinstein",
+    "party": "Democrat",
+    "electon": "false"
+  },
+{
+  "state": "Colorado",
+  "senator": "Michael Bennet",
+  "party": "Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Michael Bennet",
+          "party": "Democrat",
+          "incumbent": "Yes",
+          "bio": "Michael Bennet was born in New Delhi, India and attended the Wesleyan and Yale University. Benne was appointed superintendent of Denver Public Schools and advised Barack Obama on education issues. He was appointed in the US Senate by Colorado Governor Bill Ritter and Bennet seek US Senate electon in 2010 and won.  ",
+          "img": "/pics/MichaelBennet.jpg",
+          "platform1": "Agrees to ObamaCare Reform",
+          "platform2": "Agrees immigration Reform.",
+          "platform3": "Agrees on research of alternative energy sources."
+        },
+        { "name": "Robert Blaha", "party": "Republican" },
+        { "name": "Ryan Frazier", "party": "Republican" },
+        { "name": "Darryl Glenn ", "party": "Republican" },
+        { "name": "Jack Graham", "party": "Republican" },
+        { "name": "Jon Keyser", "party": "Republican" },
+        { "name": "Peggy Littleton ", "party": "Republican" },
+        { "name": "Greg Lopez ", "party": "Republican" },
+        { "name": "Tim Neville", "party": "Republican" },
+        { "name": "Donald Rosier ", "party": "Republican" }]
+  },
+  {
+    "state": "Colorado",
+    "senator": "Cory Gardner",
+    "party": "Republican",
+    "electon": "false"
+  },
+{
+  "state": "Connecticut",
+  "senator": "Richard Blumenthal",
+  "party": "Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Richard Blumenthal",
+          "party": "Democrat",
+          "incumbent": "Yes",
+          "bio": "Richard Blumenthal was born in Brooklyn, New York and attended University of Cambridge. He enlisted during the Vietnam War and received an honorable discharge. Blumenthal was elected Attorney General in 1990 and was elected into US Senate in 2010.",
+          "img": "/pics/RichardBlumenthal.jpg",
+          "platform1": "Agrees on Pro-choice abortion",
+          "platform2": "Agrees on Lilly Ledbetter Fair Pay Act.",
+          "platform3": "Agrees on anti-gay discrimination based on gender."
+        },
+        { "name": "August Wolf", "party": "Republican" }]
+  },
+  {
+    "state": "Connecticut",
+    "senator": "Chris Murphy",
+    "party": "Democrat",
+    "electon": "false"
+  },
+{
+  "state": "Delaware",
+  "senator": "Tom Carper",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Delaware",
+  "senator": "Chris Coons",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Florida",
+  "senator": "Marco Rubio",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Ron DeSantis",
+          "party": "Republican",
+          "incumbent": "No",
+          "bio": "DeSantis was born in Jacksonville, Florida and attended Yale University. DeSantis was elected into the US House of Representatives in 2012. He introduced the Faithful Execution of Law Act of 2014.",
+          "img": "/pics/RonDeSantis.jpg",
+          "platform1": "Opposes any raise of taxes for Global Warming",
+          "platform2": "Opposes terrorism.",
+          "platform3": "Opposes ObamaCare."
+        },
+        { "name": "David Jolly", "party": "Republican" },
+        { "name": "Carlos Lopez-Cantera", "party": "Republican" },
+        { "name": "Todd Wilcox", "party": "Republican" },
+        { "name": "Patrick Murphy", "party": "Democrat" },
+        { "name": "Alan Grayson", "party": "Democrat" },
+        { "name": "Pam Keith", "party": "Democrat" }]
+  },
+  {
+    "state": "Florida",
+    "senator": "Bill Nelson",
+    "party": "Democrat",
+    "electon": "false"
+  },
+{
+  "state": "Georgia",
+  "senator": "Johnny Isakson",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Johnny Isakson",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Johnny Isakson was born in Atlanta, Georgia. Isakson was elected into the Georgia House of Representatives in 1976 and stayed for seven terms. Isakson was selected into the US House of Representatives in 1999 in a sepcial election. Isakson was elected US Senator for Georgia in 2004.",
+          "img": "/pics/JohnnyIsakson.jpg",
+          "platform1": "Agrees to tougher border security to limit illegal immigration.",
+          "platform2": "Agrees to forbidding human cloning.",
+          "platform3": "Agrees on banning gay adoptions."
+        },
+        { "name": "Lee Benedict", "party": "Republican" },
+        { "name": "Derrick Grayson", "party": "Republican" }]
+  },
+  {
+    "state": "Georgia",
+    "senator": "David Perdue",
+    "party": "Republican",
+    "electon": "false"
+  },
+{
+  "state": "Hawaii",
+  "senator": "Brian Schatz",
+  "party": "Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Brian Schatz",
+          "party": "Democrat",
+          "incumbent": "Yes",
+          "bio": "Schatz was born in Ann Arbor, Michigan and attended Pomona College. Schatz was elected into the Hawaii House of Representatives in 1998. Schatz won the special electon for US Senate in 2014.",
+          "img": "/pics/BrianSchatz.jpg",
+          "platform1": "Agrees to support renewable energy.",
+          "platform2": "Agrees to support same-sex marraige.",
+          "platform3": "Agrees on expand background checks for gun purchases."
+        },
+        { "name": "Charles Collins", "party": "Republican" }]
+  },
+  {
+    "state": "Hawaii",
+    "senator": "Mazie Hirono",
+    "party": "Democrat",
+    "electon": "false"
+  },
+{
+  "state": "Idaho",
+  "senator": "Mike Crapo",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Mike Crapo",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Capo was born in Idaho Falls, Idaho and attended Brigham Young University and Harvard Law School. He ran for state senate in 1982 and served until 1992. He was elected into the US House of Representatives in 1992. Crapo was elected to the U.S. Senate in 1998.",
+          "img": "/pics/MikeCrapo.jpg",
+          "platform1": "Opposes Obama's health reform.",
+          "platform2": "Opposes expanding background checks for gun buyers",
+          "platform3": "Agrees to support land conservations."
+        }]
+  },
+{
+  "state": "Idaho",
+  "senator": "Jim Risch",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Illinois",
+  "senator": "Mark Kirk",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Mark Kirk",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Kirk was born in Champaign, Illinois and attended cornell University. He enlisted into the military as an intelligence officer. Then, he joined the U.S. House of Representatives in 2000. In 2010, he won the U.S. Senate elction.",
+          "img": "/pics/MarkKirk.jpg",
+          "platform1": "Agrees to support pro-choice abortions.",
+          "platform2": "Opposes corrupted officials",
+          "platform3": "Agrees to re-authorized Violence Against Women Act."
+        },
+        { "name": "James Marter", "party": "Republican" },
+        { "name": "Tammy Duckworth", "party": "Democrat" },
+        { "name": "Napoleon Harris", "party": "Democrat" },
+        { "name": "Andrea Zopp", "party": "Democrat" }]
+  },
+{
+  "state": "Illinois",
+  "senator": "Dick Durbin",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Indiana",
+  "senator": "Dan Coats",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Baron Hill",
+          "party": "Democrat",
+          "incumbent": "No",
+          "bio": "Baron Hill was a member of the Indiana House of Representatives from 1982 to 1990. He was also a member of the Blue Dog Coalition. He owns a lobbying firm that represents Cook Industries.",
+          "img": "/pics/BaronHill.jpg",
+          "platform1": "Agrees to support marraige rights regardless of gender.",
+          "platform2": "Agrees to support the Patient Protection and Affordable Care Act.",
+          "platform3": "Agrees to support 'No Child Left Behind Act'."
+        },
+        { "name": "Marlin Stutzman", "party": "Republican" },
+        { "name": "Todd Young", "party": "Republican" }]
+  },
+{
+  "state": "Indiana",
+  "senator": "Joe Donnelly",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Iowa",
+  "senator": "Chuck Grassley",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Chuck Grassley",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Chuck Grassley was born in New Harford, Iowa and attnded Iowa State Teachers College. He was elected into the U.S. Senate in 1980. Grassley pushed for increasing the level of taxation on American citizens living aboard.",
+          "img": "/pics/ChuckGrassley.jpg",
+          "platform1": "Support wind energy development.",
+          "platform2": "Opposes to Obama HealthCare Act.",
+          "platform3": "Supports pro-life."
+        },
+        { "name": "Rob Hogg", "party": "Democrat" },
+        { "name": "Tom Fiegen", "party": "Democrat" },
+        { "name": "Bob Krause", "party": "Democrat" }]
+  },
+{
+  "state": "Iowa",
+  "senator": "Joni Ernst",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Kansas",
+  "senator": "Jerry Moran",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Jerry Moran",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Jerry Moran was born in Great Bend, Kansas and attended University of Kansas. He was elected into the U.S. House of Representatives in 1996. He ran and was elected to the U.S. Senate in 2010.",
+          "img": "/pics/JerryMoran.jpg",
+          "platform1": "Support strong national defense.",
+          "platform2": "Opposes to Obama HealthCare Act.",
+          "platform3": "Supports gun rights."
+        },
+        { "name": "Patrick Wiesner ", "party": "Democrat" }]
+  },
+{
+  "state": "Kansas",
+  "senator": "Pat Roberts",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Kentucky",
+  "senator": "Rand Paul",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Rand Paul",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Rand Paul was born in Pittsburgh, Pennsylvania and attended Baylor University and Duke University. After completing his residency in ophthalmology, he moved to Kentucky. Due to his father's, U.S. Senator Phil Gramm's, influence and political supporters, Paul ran for U.S. Senate in 2010 and was elected.",
+          "img": "/pics/RandPaul.jpg",
+          "platform1": "Support cutting federal spending by reduncing international aid.",
+          "platform2": "Opposes to bailing out Detriot after bankruptcy.",
+          "platform3": "Opposes the use of drones within the United States."
+        },
+        { "name": "Jim Gray", "party": "Democrat" },
+        { "name": "Rory Houlihan", "party": "Democrat" },
+        { "name": "Jeff Kender", "party": "Democrat" },
+        { "name": "Ron Leach", "party": "Democrat" },
+        { "name": "Tom Recktenwald", "party": "Democrat" },
+        { "name": "Grant Short ", "party": "Democrat" },
+        { "name": "Sellus Wilder", "party": "Democrat" },
+        { "name": "James Gould", "party": "Republican" },
+        { "name": "Stephen Slaughter", "party": "Republican" }]
+  },
+{
+  "state": "Kentucky",
+  "senator": "Mitch McConnell",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Louisiana",
+  "senator": "David Vitter",
+  "party": "Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Charles Boustany",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Charles Boustany was born in Lafayette, Louisiana and attended University of Louisiana at Lafayette. Boustany was elected into the U.S. House of Representatives in 2004. He purchase a bogus European title from fraudsters;",
+          "img": "/pics/CharlesBoustany.jpg",
+          "platform1": "Support strict American-Mexican border.",
+          "platform2": "Supports the United States farm bill.",
+          "platform3": "Support cleaning up undetonated cluster bombs"
+        },
+        { "name": "Joseph Cao", "party": "Republican" },
+        { "name": "John Fleming", "party": "Republican" },
+        { "name": "John Kennedy", "party": "Republican" },
+        { "name": "Rob Maness", "party": "Republican" },
+        { "name": "Troy Hebert", "party": "Independent" },
+        { "name": "Caroline Fayard", "party": "(Democrat" }]
+  },
+{
+  "state": "Louisiana",
+  "senator": "Bill Cassidy",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Maine",
+  "senator": "Susan Collins",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Maine",
+  "senator": "Angus King",
+  "party": "Independent",
+  "electon": "false"
+},
+{
+  "state": "Maryland",
+  "senator": "Barbara Mikulski",
+  "party": "Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Donna Edwards ",
+          "party": "Democrat",
+          "incumbent": "No",
+          "bio": "Edwards was born in Yanceyville, North Carolina and attended the University of New Hampshire School of Law. Edwards co-founded and serve as the first executive director of the National Network to End Domestic Violence. In 2008, Edwards was elected into the U.S. House of Representative.",
+          "img": "/pics/DonnaEdwards.jpg",
+          "platform1": "Support and advocated for women in domestic violence.",
+          "platform2": "Supports getting a living wage for working people.",
+          "platform3": "End capital punishment."
+        },
+        { "name": "Freddie Donald Dickson Jr.", "party": "(Democrat" },
+        { "name": "Ralph Jaffe", "party": "(Democrat" },
+        { "name": "Theresa Scaldaferri", "party": "(Democrat" },
+        { "name": "Charles U. Smith", "party": "(Democrat" },
+        { "name": "Violet Staley", "party": "(Democrat" },
+        { "name": "Blaine Taylor", "party": "(Democrat" },
+        { "name": "Ed Tinus", "party": "(Democrat" },
+        { "name": "Chris Van Hollen", "party": "(Democrat" },
+        { "name": "Lih Young", "party": "(Democrat" },
+        { "name": "Chris Chafee", "party": "(Republican" },
+        { "name": "Sean Connor", "party": "(Republican" },
+        { "name": "Richard Douglas", "party": "(Republican" },
+        { "name": "John R. Graziani", "party": "(Republican" },
+        { "name": "Greg Holmes", "party": "(Republican" },
+        { "name": "Joseph David Hooe", "party": "(Republican" },
+        { "name": "Chrys Kefalas", "party": "(Republican" },
+        { "name": "Mark McNicholas", "party": "(Republican" },
+        { "name": "Lynn Richardson", "party": "(Republican" },
+        { "name": "Anthony Seda", "party": "(Republican" },
+        { "name": "Richard Shawver", "party": "(Republican" },
+        { "name": "Kathy Szeliga", "party": "(Republican" },
+        { "name": "Dave Wallace", "party": "(Republican" },
+        { "name": "Garry T. Yarrington ", "party": "(Republican" }]
+  },
+{
+  "state": "Maryland",
+  "senator": "Ben Cardin",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Massachusetts",
+  "senator": "Elizabeth Warren",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Massachusetts",
+  "senator": "Ed Markey",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Michigan",
+  "senator": "Debbie Stabenow",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Michigan",
+  "senator": "Gary Peters",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Minnesota",
+  "senator": "Amy Klobuchar",
+  "party": "Democrat-Farmer-Labor",
+  "electon": "false"
+},
+{
+  "state": "Minnesota",
+  "senator": "Al Franken",
+  "party": "Democrat-Farmer-Labor",
+  "electon": "false"
+},
+{
+  "state": "Mississippi",
+  "senator": "Thad Cochran",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Mississippi",
+  "senator": "Roger Wicker",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Missouri",
+  "senator": "Roy Blunt",
+  "party":  	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Roy Blunt",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio": "Roy Blunt was born in Niangua, Missouri and attended Missouri State University. In 1984, Blunt became the Secretary of State for Missouri. Blunt was elected into the U.S. House of Represenatatives in 1998. In 2010, Blunt was elected to be a U.S. senator.",
+          "img": "/pics/RoyBlunt.jpg",
+          "platform1": "Oppose the HealthCare Reform by democrates.",
+          "platform2": "Opposes lawsuit against gun manufactures and dealers if they sold a gun used for violence later.",
+          "platform3": "Supports drilling oil on the U.S. coastline."
+        },
+        { "name": "Christopher Batsche", "party": "(Republican" },
+        { "name": "Jason Kander", "party": "(Democrat" },
+        { "name": "MD Rabbi Alam", "party": "(Democrat" }]
+  },
+{
+  "state": "Missouri",
+  "senator": "Claire McCaskill",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Montana",
+  "senator": "Steve Daines",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Montana",
+  "senator": "Jon Tester",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Nebraska",
+  "senator": "Deb Fischer",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Nebraska",
+  "senator": "Ben Sasse",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Nevada",
+  "senator": "Harry Reid",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Catherine Cortez Masto",
+          "party": "Democrat",
+          "incumbent": "No",
+          "bio": "Cortez Masto was born in Las Vegas, Nevada and attended University of Nevada, Reno. Cortez Masto is a Nevada Attorney General and her office began investigating Bank of America for raising interest on borrowers. Cortez Masto was endorsed by retiring U.S. Senator Harry Reid as successor.",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "Opposes same-sex marriage.",
+          "platform2": "Supports the raise of minimum wage.",
+          "platform3": "Supports immigration and wants pathway for unodcumented immigrants to citizenship."
+        },
+        { "name": "Joe Heck", "party": "Republican" }]
+  },
+{
+  "state": "Nevada",
+  "senator": "Dean Heller",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "New Hampshire",
+  "senator": "Kelly Ayotte",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Kelly Ayotte",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        },
+        { "name": "Maggie Hassan", "party": "Democrat" }]
+  },
+{
+  "state": "New Hampshire",
+  "senator": "Jeanne Shaheen",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "New Jersey",
+  "senator": "Bob Menendez",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "New Jersey",
+  "senator": "Cory Booker",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "New Mexico",
+  "senator": "Tom Udall",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "New Mexico",
+  "senator": "Martin Heinrich",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "New York",
+  "senator": "Chuck Schumer",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Chuck Schumer",
+          "party": "Democrat",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "New York",
+  "senator": "Kirsten Gillibrand",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "North Carolina",
+  "senator": "Richard Burr",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Richard Burr",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "North Carolina",
+  "senator": "Thom Tillis",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "North Dakota",
+  "senator": "John Hoeven",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "John Hoeven",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "North Dakota",
+  "senator": "Heidi Heitkamp",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Ohio",
+  "senator": "Rob Portman",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Rob Portman",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Ohio",
+  "senator": "Sherrod Brown",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Oklahoma",
+  "senator": "James Lankford",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "James Lankford",
+          "party": "Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Oklahoma",
+  "senator": "Jim Inhofe",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Oregon",
+  "senator": "Ron Wyden",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Ron Wyden",
+          "party": "Democrat",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Oregon",
+  "senator": "Jeff Merkley",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Pennsylvania",
+  "senator": "Pat Toomey",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Pat Toomey",
+          "party":	"Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Pennsylvania",
+  "senator": "Bob Casey, Jr.",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Rhode Island",
+  "senator": "Jack Reed",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Rhode Island",
+  "senator": "Sheldon Whitehouse",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "South Carolina",
+  "senator": "Tim Scott",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Tim Scott",
+          "party":	"Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "South Carolina",
+  "senator": "Lindsey Graham",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "South Dakota",
+  "senator": "John Thune",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "John Thune",
+          "party":	"Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "South Dakota",
+  "senator": "Mike Rounds",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Tennessee",
+  "senator": "Bob Corker",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Tennessee",
+  "senator": "Lamar Alexander",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Texas",
+  "senator": "John Cornyn",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Texas",
+  "senator": "Ted Cruz",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Utah",
+  "senator": "Mike Lee",
+  "party":	"Republican",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Mike Lee ",
+          "party":	"Republican",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Utah",
+  "senator": "Orrin Hatch",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+  "state": "Vermont",
+  "senator": "Patrick Leahy",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Patrick Leahy",
+          "party":	"Democrat",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Vermont",
+  "senator": "Bernie Sanders",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Virginia",
+  "senator": "Mark Warner",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Virginia",
+  "senator": "Tim Kaine",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "Washington",
+  "senator": "Patty Murray",
+  "party":	"Democrat",
+  "electon": "true",
+  "candidates":
+      [
+        {
+          "name":  "Patty Murray",
+          "party":	"Democrat",
+          "incumbent": "Yes",
+          "bio":"",
+          "img": "/pics/CatherineCortezMasto.jpg",
+          "platform1": "",
+          "platform2": "",
+          "platform3": ""
+        }]
+  },
+{
+  "state": "Washington",
+  "senator": "Maria Cantwell",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "West Virginia",
+  "senator": "Joe Manchin",
+  "party": "Democrat",
+  "electon": "false"
+},
+{
+  "state": "West Virginia",
+  "senator": "Shelley Moore Capito",
+  "party": "Republican",
+  "electon": "false"
+},
+{
+
+    "state": "Wisconsin",
+    "senator": "Ron Johnson",
+    "party":	"Republican",
+    "electon": "true",
+    "candidates":
+        [
+          {
+            "name":  "Ron Johnson",
+            "party":	"Republican",
+            "incumbent": "Yes",
+            "bio":"",
+            "img": "/pics/CatherineCortezMasto.jpg",
+            "platform1": "",
+            "platform2": "",
+            "platform3": ""
+          }]
+    },
+  {
+    "state": "Wisconsin",
+    "senator": "Maria Cantwell",
+    "party": "Democrat",
+    "electon": "false"
+  },
+  {
+    "state": "Wyoming",
+    "senator": "Mike Enzi",
+    "party": "Republican",
+    "electon": "false"
+  },
+  {
+    "state": "Wyoming",
+    "senator": "John Barrasso",
+    "party": "Republican",
+    "electon": "false"
+  }
+]
