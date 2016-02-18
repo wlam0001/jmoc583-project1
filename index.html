@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+
     <head>
+
         <!-- angular -->
         <script type="text/javascript" src="js/angular.js"></script>
 
@@ -9,27 +11,83 @@
         <script type="text/javascript" src="js/senators.js"></script>
         <!-- css -->
         <link rel="stylesheet" href="css/bootstrap.css" />
+        <link rel="stylesheet" href="css/style.css" />
     </head>
 
     <body ng-app="myApp">
-
         <div class="container" ng-controller="BaseController as base">
 
           <div class="row" ng-controller="SenatorsController as senatorCtrl">
-            <table class="table table-bordered" >
-            <tr ng-repeat="senators in senatorCtrl.senators">
-                <td  ng-repeat="senator in senators">{{senator.state}}</td>
+            <div class = "information">
+
+
+            <table class="state_table" >
+            <tr >
+              <!-- ng-repeat="senators in senatorCtrl.senators" -->
+                <td class = "seats"style="position: relative;" ng-repeat="senator in senatorCtrl.senators"  ng-click="selectPerson(senator)">
+                  <!-- ng-click="showDetails = ! showDetails" -->
+              {{senator.state}}
+
+                  <!-- <div  ng-click='toggleModal()' > -->
+                    <!-- <div ng-click='toggleModal(); $event.stopPropagation();' >{{senator.state}}
+
+                   <modal-dialog show='modalShown' width='750px' height='60%'>
+                  <p>Current Senator: {{senator.senator}} <br>
+                    {{$index}}
+                     Party: {{senator.party}}<br><br>
+                     Candidates:<br>
+                     {{senator.candidates}} -->
+                     <!-- <ul>
+                       <li ng-repeat = "candidates in senator.candidates">{{candidates}}</li>
+                     </ul> -->
+                  <!-- </p>
+
+
+                </modal-dialog>
+              </div> -->
+               </td>
             </tr>
         </table>
-                        <!-- <div class="col-xs-3" ng-repeat="senator in senatorCtrl.senators">
-                            <h1>{{senator.senator}}</h1>
-                            <h1>{{senator.state}}</h1>
-                            <h1>{{senator.party}}</h1>
 
-                            <li><img src= {{senator.candidates[0].img}}></li>
-                            <h1>{{senator.candidates[0].name}}</h1>
+          </div>
+          <div class="row">
+            <div class="col-sm-4">
+            <p>
+              State: {{selected.senator.state}}<br>
+              Senator: {{selected.senator.senator}}<br>
+              Party: {{selected.senator.party}}<br>
+            </p>
+              <div ng-if="selected.senator.electon == 'true'">
+                <p>Candidates: <br>
+                <ul>
+                  <li class = "candidate_name" ng-repeat = "candidates in selected.senator.candidates">
+                    {{candidates.name}} ({{candidates.party}})
+                 </li>
+                </ul>
+                </p>
+              </div>
+            </div>
+            <div class="col-sm-3">
+              <br>
+              <img src={{selected.senator.candidates[0].img}} width="200" height="250">
+              <p>{{selected.senator.candidates[0].name}}</p>
+            </div>
+            <div class="col-sm-5">
+              <p>
+                       Party: {{selected.senator.candidates[0].party}}<br>
+                         Bio: <br>
+                         {{selected.senator.candidates[0].bio}}<br>
+                         Platform:
+                         <ul>
+                         <li>{{selected.senator.candidates[0].platform1}}</li>
+                         <li>{{selected.senator.candidates[0].platform2}}</li>
+                         <li>{{selected.senator.candidates[0].platform3}}</li>
+                       </ul>
 
-                        </div> -->
+
+                     </p>
+            </div>
+          </div>
                     </div>
         </div>
 
