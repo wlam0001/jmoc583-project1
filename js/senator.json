@@ -2,14 +2,14 @@
   "state": "Alabama",
   "senator": "Richard Shelby",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
 			[
 				{
           "name": "Richard Shelby",
           "party": "Republican",
           "incumbent": "Yes",
-          "bio": "Richard Shelby was born in Birmingham Alabama. He obtained his undergraduate degree, law degree and his Juris Doctorin in Alabama. Shelby was elected to Alabama Senate in 1970 and then he won the United States Senate electon in Alabama in 1986.",
+          "bio": "Richard Shelby was born in Birmingham Alabama. He obtained his undergraduate degree, law degree and his Juris Doctorin in Alabama. Shelby was elected to Alabama Senate in 1970 and then he won the United States Senate election in Alabama in 1986.",
           "img": "/pics/RichardShelby.jpg",
           "platform1": "Agrees to let unborn child to be elibile for state health insurance program.",
           "platform2": "Agrees on notifying parents of minor of out-of-state abortions.",
@@ -27,13 +27,13 @@
   "state": "Alabama",
   "senator": "Jeff Sessions",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Alaska",
   "senator": "Lisa Murkowski",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
   		[
   			{
@@ -54,13 +54,13 @@
   "state": "Alaska",
   "senator": "Dan Sullivan",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Arizona",
   "senator": "John McCain",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
           {
@@ -84,20 +84,20 @@
         "state": "Arizona",
         "senator": "Jeff Flake",
         "party": "Republican",
-        "electon": "false"
+        "election": false
       },
 {
   "state": "Arkansas",
   "senator": "John Boozman",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
           "name": "John Boozman",
           "party": "Republican",
           "incumbent": "Yes",
-          "bio": "John Boozman was born in Shreveport, Louisiana and attended the University of Arkansas. He won in a U.S House of Representative sepcial electon when his predcessor resigned. He voted in favor of the Iraq Resolution that lead to the Iraq war. He became a senator after winning the 2010 senator election",
+          "bio": "John Boozman was born in Shreveport, Louisiana and attended the University of Arkansas. He won in a U.S House of Representative sepcial election when his predcessor resigned. He voted in favor of the Iraq Resolution that lead to the Iraq war. He became a senator after winning the 2010 senator election",
           "img": "/pics/JohnBoozman.jpg",
           "platform1": "Opposes the Employment Non-Discrimination Act.",
           "platform2": "Opposes the Paycheck Fairiness Act.",
@@ -111,13 +111,13 @@
     "state": "Arkansas",
     "senator": "Tom Cotton",
     "party": "Republican",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "California",
   "senator": "Barbara Boxer",
   "party": "Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -138,20 +138,20 @@
     "state": "California",
     "senator": "Dianne Feinstein",
     "party": "Democrat",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Colorado",
   "senator": "Michael Bennet",
   "party": "Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
           "name":  "Michael Bennet",
           "party": "Democrat",
           "incumbent": "Yes",
-          "bio": "Michael Bennet was born in New Delhi, India and attended the Wesleyan and Yale University. Benne was appointed superintendent of Denver Public Schools and advised Barack Obama on education issues. He was appointed in the US Senate by Colorado Governor Bill Ritter and Bennet seek US Senate electon in 2010 and won.  ",
+          "bio": "Michael Bennet was born in New Delhi, India and attended the Wesleyan and Yale University. Benne was appointed superintendent of Denver Public Schools and advised Barack Obama on education issues. He was appointed in the US Senate by Colorado Governor Bill Ritter and Bennet seek US Senate election in 2010 and won.  ",
           "img": "/pics/MichaelBennet.jpg",
           "platform1": "Agrees to ObamaCare Reform",
           "platform2": "Agrees immigration Reform.",
@@ -171,13 +171,13 @@
     "state": "Colorado",
     "senator": "Cory Gardner",
     "party": "Republican",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Connecticut",
   "senator": "Richard Blumenthal",
   "party": "Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -196,25 +196,25 @@
     "state": "Connecticut",
     "senator": "Chris Murphy",
     "party": "Democrat",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Delaware",
   "senator": "Tom Carper",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Delaware",
   "senator": "Chris Coons",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Florida",
   "senator": "Marco Rubio",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -238,13 +238,13 @@
     "state": "Florida",
     "senator": "Bill Nelson",
     "party": "Democrat",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Georgia",
   "senator": "Johnny Isakson",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -264,20 +264,20 @@
     "state": "Georgia",
     "senator": "David Perdue",
     "party": "Republican",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Hawaii",
   "senator": "Brian Schatz",
   "party": "Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
           "name":  "Brian Schatz",
           "party": "Democrat",
           "incumbent": "Yes",
-          "bio": "Schatz was born in Ann Arbor, Michigan and attended Pomona College. Schatz was elected into the Hawaii House of Representatives in 1998. Schatz won the special electon for US Senate in 2014.",
+          "bio": "Schatz was born in Ann Arbor, Michigan and attended Pomona College. Schatz was elected into the Hawaii House of Representatives in 1998. Schatz won the special election for US Senate in 2014.",
           "img": "/pics/BrianSchatz.jpg",
           "platform1": "Agrees to support renewable energy.",
           "platform2": "Agrees to support same-sex marraige.",
@@ -289,13 +289,13 @@
     "state": "Hawaii",
     "senator": "Mazie Hirono",
     "party": "Democrat",
-    "electon": "false"
+    "election": false
   },
 {
   "state": "Idaho",
   "senator": "Mike Crapo",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -313,13 +313,13 @@
   "state": "Idaho",
   "senator": "Jim Risch",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Illinois",
   "senator": "Mark Kirk",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -341,13 +341,13 @@
   "state": "Illinois",
   "senator": "Dick Durbin",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Indiana",
   "senator": "Dan Coats",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -367,13 +367,13 @@
   "state": "Indiana",
   "senator": "Joe Donnelly",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Iowa",
   "senator": "Chuck Grassley",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -394,13 +394,13 @@
   "state": "Iowa",
   "senator": "Joni Ernst",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Kansas",
   "senator": "Jerry Moran",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -419,13 +419,13 @@
   "state": "Kansas",
   "senator": "Pat Roberts",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Kentucky",
   "senator": "Rand Paul",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -452,13 +452,13 @@
   "state": "Kentucky",
   "senator": "Mitch McConnell",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Louisiana",
   "senator": "David Vitter",
   "party": "Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -482,25 +482,25 @@
   "state": "Louisiana",
   "senator": "Bill Cassidy",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Maine",
   "senator": "Susan Collins",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Maine",
   "senator": "Angus King",
   "party": "Independent",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Maryland",
   "senator": "Barbara Mikulski",
   "party": "Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -513,89 +513,89 @@
           "platform2": "Supports getting a living wage for working people.",
           "platform3": "End capital punishment."
         },
-        { "name": "Freddie Donald Dickson Jr.", "party": "(Democrat" },
-        { "name": "Ralph Jaffe", "party": "(Democrat" },
-        { "name": "Theresa Scaldaferri", "party": "(Democrat" },
-        { "name": "Charles U. Smith", "party": "(Democrat" },
-        { "name": "Violet Staley", "party": "(Democrat" },
-        { "name": "Blaine Taylor", "party": "(Democrat" },
-        { "name": "Ed Tinus", "party": "(Democrat" },
-        { "name": "Chris Van Hollen", "party": "(Democrat" },
-        { "name": "Lih Young", "party": "(Democrat" },
-        { "name": "Chris Chafee", "party": "(Republican" },
-        { "name": "Sean Connor", "party": "(Republican" },
-        { "name": "Richard Douglas", "party": "(Republican" },
-        { "name": "John R. Graziani", "party": "(Republican" },
-        { "name": "Greg Holmes", "party": "(Republican" },
-        { "name": "Joseph David Hooe", "party": "(Republican" },
-        { "name": "Chrys Kefalas", "party": "(Republican" },
-        { "name": "Mark McNicholas", "party": "(Republican" },
-        { "name": "Lynn Richardson", "party": "(Republican" },
-        { "name": "Anthony Seda", "party": "(Republican" },
-        { "name": "Richard Shawver", "party": "(Republican" },
-        { "name": "Kathy Szeliga", "party": "(Republican" },
-        { "name": "Dave Wallace", "party": "(Republican" },
-        { "name": "Garry T. Yarrington ", "party": "(Republican" }]
+        { "name": "Freddie Donald Dickson Jr.", "party": "Democrat" },
+        { "name": "Ralph Jaffe", "party": "Democrat" },
+        { "name": "Theresa Scaldaferri", "party": "Democrat" },
+        { "name": "Charles U. Smith", "party": "Democrat" },
+        { "name": "Violet Staley", "party": "Democrat" },
+        { "name": "Blaine Taylor", "party": "Democrat" },
+        { "name": "Ed Tinus", "party": "Democrat" },
+        { "name": "Chris Van Hollen", "party": "Democrat" },
+        { "name": "Lih Young", "party": "Democrat" },
+        { "name": "Chris Chafee", "party": "Republican" },
+        { "name": "Sean Connor", "party": "Republican" },
+        { "name": "Richard Douglas", "party": "Republican" },
+        { "name": "John R. Graziani", "party": "Republican" },
+        { "name": "Greg Holmes", "party": "Republican" },
+        { "name": "Joseph David Hooe", "party": "Republican" },
+        { "name": "Chrys Kefalas", "party": "Republican" },
+        { "name": "Mark McNicholas", "party": "Republican" },
+        { "name": "Lynn Richardson", "party": "Republican" },
+        { "name": "Anthony Seda", "party": "Republican" },
+        { "name": "Richard Shawver", "party": "Republican" },
+        { "name": "Kathy Szeliga", "party": "Republican" },
+        { "name": "Dave Wallace", "party": "Republican" },
+        { "name": "Garry T. Yarrington ", "party": "Republican" }]
   },
 {
   "state": "Maryland",
   "senator": "Ben Cardin",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Massachusetts",
   "senator": "Elizabeth Warren",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Massachusetts",
   "senator": "Ed Markey",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Michigan",
   "senator": "Debbie Stabenow",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Michigan",
   "senator": "Gary Peters",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Minnesota",
   "senator": "Amy Klobuchar",
   "party": "Democrat-Farmer-Labor",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Minnesota",
   "senator": "Al Franken",
   "party": "Democrat-Farmer-Labor",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Mississippi",
   "senator": "Thad Cochran",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Mississippi",
   "senator": "Roger Wicker",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Missouri",
   "senator": "Roy Blunt",
   "party":  	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -616,37 +616,37 @@
   "state": "Missouri",
   "senator": "Claire McCaskill",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Montana",
   "senator": "Steve Daines",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Montana",
   "senator": "Jon Tester",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Nebraska",
   "senator": "Deb Fischer",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Nebraska",
   "senator": "Ben Sasse",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Nevada",
   "senator": "Harry Reid",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -665,13 +665,13 @@
   "state": "Nevada",
   "senator": "Dean Heller",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New Hampshire",
   "senator": "Kelly Ayotte",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -690,37 +690,37 @@
   "state": "New Hampshire",
   "senator": "Jeanne Shaheen",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New Jersey",
   "senator": "Bob Menendez",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New Jersey",
   "senator": "Cory Booker",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New Mexico",
   "senator": "Tom Udall",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New Mexico",
   "senator": "Martin Heinrich",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "New York",
   "senator": "Chuck Schumer",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -738,13 +738,13 @@
   "state": "New York",
   "senator": "Kirsten Gillibrand",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "North Carolina",
   "senator": "Richard Burr",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -762,13 +762,13 @@
   "state": "North Carolina",
   "senator": "Thom Tillis",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "North Dakota",
   "senator": "John Hoeven",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -786,13 +786,13 @@
   "state": "North Dakota",
   "senator": "Heidi Heitkamp",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Ohio",
   "senator": "Rob Portman",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -810,13 +810,13 @@
   "state": "Ohio",
   "senator": "Sherrod Brown",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Oklahoma",
   "senator": "James Lankford",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -834,13 +834,13 @@
   "state": "Oklahoma",
   "senator": "Jim Inhofe",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Oregon",
   "senator": "Ron Wyden",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -858,13 +858,13 @@
   "state": "Oregon",
   "senator": "Jeff Merkley",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Pennsylvania",
   "senator": "Pat Toomey",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -882,25 +882,25 @@
   "state": "Pennsylvania",
   "senator": "Bob Casey, Jr.",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Rhode Island",
   "senator": "Jack Reed",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Rhode Island",
   "senator": "Sheldon Whitehouse",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "South Carolina",
   "senator": "Tim Scott",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -918,13 +918,13 @@
   "state": "South Carolina",
   "senator": "Lindsey Graham",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "South Dakota",
   "senator": "John Thune",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -942,37 +942,37 @@
   "state": "South Dakota",
   "senator": "Mike Rounds",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Tennessee",
   "senator": "Bob Corker",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Tennessee",
   "senator": "Lamar Alexander",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Texas",
   "senator": "John Cornyn",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Texas",
   "senator": "Ted Cruz",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Utah",
   "senator": "Mike Lee",
   "party":	"Republican",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -990,13 +990,13 @@
   "state": "Utah",
   "senator": "Orrin Hatch",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Vermont",
   "senator": "Patrick Leahy",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -1014,25 +1014,25 @@
   "state": "Vermont",
   "senator": "Bernie Sanders",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Virginia",
   "senator": "Mark Warner",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Virginia",
   "senator": "Tim Kaine",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "Washington",
   "senator": "Patty Murray",
   "party":	"Democrat",
-  "electon": "true",
+  "election": true,
   "candidates":
       [
         {
@@ -1050,26 +1050,26 @@
   "state": "Washington",
   "senator": "Maria Cantwell",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "West Virginia",
   "senator": "Joe Manchin",
   "party": "Democrat",
-  "electon": "false"
+  "election": false
 },
 {
   "state": "West Virginia",
   "senator": "Shelley Moore Capito",
   "party": "Republican",
-  "electon": "false"
+  "election": false
 },
 {
 
     "state": "Wisconsin",
     "senator": "Ron Johnson",
     "party":	"Republican",
-    "electon": "true",
+    "election": true,
     "candidates":
         [
           {
@@ -1087,18 +1087,18 @@
     "state": "Wisconsin",
     "senator": "Maria Cantwell",
     "party": "Democrat",
-    "electon": "false"
+    "election": false
   },
   {
     "state": "Wyoming",
     "senator": "Mike Enzi",
     "party": "Republican",
-    "electon": "false"
+    "election": false
   },
   {
     "state": "Wyoming",
     "senator": "John Barrasso",
     "party": "Republican",
-    "electon": "false"
+    "election": false
   }
 ]
