@@ -23,34 +23,35 @@
             <div><h1><center>2016 United States Senate Election Data</center></h1></div>
             <br>
 
-            <div class = "display"  class = "row">
-            <div  class="row" ng-show = "showDetails">
+            <div class = "display"  class = "row" >
+            <div  class="col-sm-12  well well-lg" ng-show = "showDetails">
               <div class="col-sm-4">
-              <p>
-                State: {{selected.senator.state}}<br>
-                Senator: {{selected.senator.senator}}<br>
-                Party: {{selected.senator.party}}<br>
-              </p>
+
+                <h5><b>State: </b>{{selected.senator.state}}</h5>
+                <h5><b>Senator: </b>{{selected.senator.senator}}</h5>
+                <h5><b>Party: </b>{{selected.senator.party}}</h5>
+
                 <div ng-if="selected.senator.election">
-                  <p>Candidates: <br>
-                  <ul>
-                    <li class = "candidate_name" ng-repeat = "candidates in selected.senator.candidates">
-                      {{candidates.name}} ({{candidates.party}})
-                   </li>
+                  <h5><b>Candidates: </b></h5>
+                  <ul class = "candidate_name" ng-repeat = "candidates in selected.senator.candidates">
+                    <li ng-if = "$index < 7 ||$index  == $last" >{{candidates.name}} ({{candidates.party}})</li>
+                    <li ng-if = "$index >= 7" ng-show = "moreCandidates">{{candidates.name}} ({{candidates.party}})</li>
                   </ul>
-                  </p>
+                  <div ng-show= "selected.senator.candidates.length > 7"><button  type="button" class="btn show" ng-click="moreCandidates = !moreCandidates"><span ng-show="moreCandidates">Show less</span><span ng-hide="moreCandidates">Show more</span></button>
+                  <!-- <button type="button" class="btn btn-default" ng-click="moreCandidates=! moreCandidates">{{{{moreCandidates}} ?  "Show more" : "Show less" }}</button> -->
                 </div>
+              </div>
               </div>
               <div class="col-sm-3" ng-if="selected.senator.election">
                 <img src={{selected.senator.candidates[0].img}} width="220" height="279" class="img-rounded">
-                <p>{{selected.senator.candidates[0].name}}</p>
+                <p><b>{{selected.senator.candidates[0].name}}</b></p>
               </div>
               <div class="col-sm-5" ng-if="selected.senator.election">
                 <p>
-                         Party: {{selected.senator.candidates[0].party}}<br>
-                           Bio: <br>
-                           {{selected.senator.candidates[0].bio}}<br>
-                           Platform:
+                           <h5><b>Party:</b> {{selected.senator.candidates[0].party}}</h5>
+                           <h5><b>Bio:</b></h5>
+                           <p class = "tab">{{selected.senator.candidates[0].bio}}</p>
+                           <h5><b>Platform: </b></h5>
                            <ul>
                            <li>{{selected.senator.candidates[0].platform1}}</li>
                            <li>{{selected.senator.candidates[0].platform2}}</li>
@@ -62,18 +63,44 @@
               </div>
             </div>
                       </div>
-            <div class = "information" ng-click="showDetails=true">
-            <table class="state_table" >
+              <div class  = "key row" >
+                <div class="col-sm-3 contest">Contested Seats</div>
+                <div class="col-sm-2 repub">Republicans</div>
+                <div class="col-sm-2 demo">Democrat</div>
+                <div class="col-sm-2 other">Other Parties</div>
+              <div class="col-sm-3 sorts">Sort table:
+              <select class="sort img-rounded ng-model="sortBy">
+                  <option value="state" selected>State</option>
+                  <option value="party">Party</option>
+                  <option value="-election">Election</option>
+                  <option value="senator">Senator</option>
+              </select>
+            </div>
+            </div>
+
+            <div class = "information" ng-click="showDetails=!showDetails ">
+            <table class="state_table">
             <tr >
-              <!-- ng-repeat="senators in senatorCtrl.senators" -->
-                <td class = "seats" style="position: relative;" ng-repeat="senator in senatorCtrl.senators"  ng-click="selectPerson(senator)">
-              <div class = "cell" ng-style= "((senator.party == 'Republican') && {'background-color':'#FFB6B6'} )|| ((senator.party == 'Democrat') && {'background-color':'#B0CEFF'} )|| {'background-color':'#fdfd7f'}">{{senator.state}}</div>
+
+                <td class = "seats" style="position: relative;" ng-repeat="senator in senatorCtrl.senators | orderBy: sortBy"  ng-click="selectPerson(senator); " ">
+              <div class = "cell"  ng-style= "((senator.party == 'Republican') && {'background-color':'#FFB6B6'} )||
+                                              ((senator.party == 'Democrat') && {'background-color':'#B0CEFF'} ) ||
+                                              {'background-color':'#fdfd7f'}; ">
+
+                                              <p ng-style = "(senator.election &&  {'color': 'purple'} || {'color': 'black'}  )"> {{senator.state}} </p></div>
+
                </td>
             </tr>
         </table>
 
           </div>
-
+          <div class = "source">
+            <h9>Sources</h9>
+            <ol >
+                <li><a href="https://en.wikipedia.org/wiki/United_States_Senate_elections,_2016">U.S. Senate 2016 Wikipedia Elections</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/United_States_Senate">U.S. Senate Wikipedia </a></li>
+            </ol>
+          </div>
 
                   </div>
         </div>
