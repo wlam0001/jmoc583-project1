@@ -8,12 +8,12 @@
 				{
           "name": "Richard Shelby",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Richard Shelby was born in Birmingham Alabama. He obtained his undergraduate degree, law degree and his Juris Doctorin in Alabama. Shelby was elected to Alabama Senate in 1970 and then he won the United States Senate election in Alabama in 1986.",
           "img": "/pics/RichardShelby.jpg",
-          "platform1": "Agrees to let unborn child to be elibile for state health insurance program.",
-          "platform2": "Agrees on notifying parents of minor of out-of-state abortions.",
-          "platform3": "Agrees on banning human cloning."
+          "platform1": "Supported letting unborn child to be elibile for state health insurance program.",
+          "platform2": "Supported notifying parents of minor of out-of-state abortion.",
+          "platform3": "Supported banning human cloning."
         },
 				{ "name": "Marcus Bowman", "party": "Republican" },
 				{ "name": "John Martin", "party": "Republican" },
@@ -39,12 +39,12 @@
   			{
           "name": "Lisa Murkowski ",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Lisa Murkowski majored in economicas in Georgetown University. During the same period of time, her father, Frank Murkowski was the senator of Alaska. She assummed office in 2002 and helped the protect the health care of the Alaska Native Tribe.",
           "img": "/pics/LisaMurkowski.jpg",
-          "platform1": "Opposes affirmative action.",
-          "platform2": "Opposes to gun control.",
-          "platform3": "Agrees to pro-choice abortion."
+          "platform1": "Opposed affirmative action.",
+          "platform2": "Opposed to gun control.",
+          "platform3": "Supported  pro-choice abortion."
         },
   			{ "name": "Marcus Bowman", "party": "Republican" },
   			{ "name": "Thomas Lamb", "party": "Republican" },
@@ -66,12 +66,12 @@
           {
             "name": "John McCain",
             "party": "Republican",
-            "incumbent": "Yes",
+            "incumbent": true,
             "bio": "John McCain was born at a Naval Air Station in the Panama Canal Zone. His family were military officials and he followed suit. He was a Naval pilot during the Vietnam war when he was captured after ejecting from the aircraft. After torture and returning to the United States, he became interested in politics. He ran for presidency in 2008.",
             "img": "/pics/JohnMcCain.jpg",
-            "platform1": "Agrees on strengtening the American-Mexican Border.",
-            "platform2": "Opposes to gun control.",
-            "platform3": "Agrees to help Native Americans live and deveplop land."
+            "platform1": "Supported strengtening the American-Mexican Border.",
+            "platform2": "Opposed to gun control.",
+            "platform3": "Supported Native Americans live and deveplop land."
           },
           { "name": "Lennie Clark", "party": "Democrat" },
           { "name": "Ann Kirkpatrick", "party": "Democrat" },
@@ -96,12 +96,12 @@
         {
           "name": "John Boozman",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "John Boozman was born in Shreveport, Louisiana and attended the University of Arkansas. He won in a U.S House of Representative sepcial election when his predcessor resigned. He voted in favor of the Iraq Resolution that lead to the Iraq war. He became a senator after winning the 2010 senator election",
           "img": "/pics/JohnBoozman.jpg",
-          "platform1": "Opposes the Employment Non-Discrimination Act.",
-          "platform2": "Opposes the Paycheck Fairiness Act.",
-          "platform3": "Opposes same-sex marriage."
+          "platform1": "Opposed the Employment Non-Discrimination Act.",
+          "platform2": "Opposed the Paycheck Fairiness Act.",
+          "platform3": "Opposed same-sex marriage."
         },
         { "name": "Curtis Coleman", "party": "Republican" },
         { "name": "Conner Eldridge", "party": "Democrat" },
@@ -123,12 +123,12 @@
         {
           "name":  "Kamala Harris",
           "party": "Democrat",
-          "incumbent": "No",
+          "incumbent": false,
           "bio": "Kamala Harris was born in Oakland, California and attended the Harvard University. She was elected Attorney General of California in 2010. When U.S. Senator Barbara Boxer announced her retirement, Harris decided to run for U.S. Senate",
           "img": "/pics/KamalaHarris.jpg",
-          "platform1": "Opposes individual ownership of firearms.",
-          "platform2": "Agrees and intorduced the California Homeowner's Bill of Rights.",
-          "platform3": "Opposes death penalty."
+          "platform1": "Opposed individual ownership of firearms.",
+          "platform2": "Supported and introduced the California Homeowner's Bill of Rights.",
+          "platform3": "Opposed death penalty."
         },
         { "name": "Loretta Sanchez", "party": "Democrat" },
         { "name": "Tom Del Beccaro", "party": "Republican" },
@@ -150,12 +150,12 @@
         {
           "name":  "Michael Bennet",
           "party": "Democrat",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Michael Bennet was born in New Delhi, India and attended the Wesleyan and Yale University. Benne was appointed superintendent of Denver Public Schools and advised Barack Obama on education issues. He was appointed in the US Senate by Colorado Governor Bill Ritter and Bennet seek US Senate election in 2010 and won.  ",
           "img": "/pics/MichaelBennet.jpg",
-          "platform1": "Agrees to ObamaCare Reform",
-          "platform2": "Agrees immigration Reform.",
-          "platform3": "Agrees on research of alternative energy sources."
+          "platform1": "Supported ObamaCare Reform",
+          "platform2": "Supported immigration Reform.",
+          "platform3": "Supported research of alternative energy sources."
         },
         { "name": "Robert Blaha", "party": "Republican" },
         { "name": "Ryan Frazier", "party": "Republican" },
@@ -183,12 +183,12 @@
         {
           "name":  "Richard Blumenthal",
           "party": "Democrat",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Richard Blumenthal was born in Brooklyn, New York and attended University of Cambridge. He enlisted during the Vietnam War and received an honorable discharge. Blumenthal was elected Attorney General in 1990 and was elected into US Senate in 2010.",
           "img": "/pics/RichardBlumenthal.jpg",
-          "platform1": "Agrees on Pro-choice abortion",
-          "platform2": "Agrees on Lilly Ledbetter Fair Pay Act.",
-          "platform3": "Agrees on anti-gay discrimination based on gender."
+          "platform1": "Supported Pro-choice abortion",
+          "platform2": "Supported Lilly Ledbetter Fair Pay Act.",
+          "platform3": "Supported anti-gay discrimination based on gender."
         },
         { "name": "August Wolf", "party": "Republican" }]
   },
@@ -220,12 +220,12 @@
         {
           "name":  "Ron DeSantis",
           "party": "Republican",
-          "incumbent": "No",
+          "incumbent": false,
           "bio": "DeSantis was born in Jacksonville, Florida and attended Yale University. DeSantis was elected into the US House of Representatives in 2012. He introduced the Faithful Execution of Law Act of 2014.",
           "img": "/pics/RonDeSantis.jpg",
-          "platform1": "Opposes any raise of taxes for Global Warming",
-          "platform2": "Opposes terrorism.",
-          "platform3": "Opposes ObamaCare."
+          "platform1": "Opposed any raise of taxes for Global Warming",
+          "platform2": "Opposed terrorism.",
+          "platform3": "Opposed ObamaCare."
         },
         { "name": "David Jolly", "party": "Republican" },
         { "name": "Carlos Lopez-Cantera", "party": "Republican" },
@@ -250,12 +250,12 @@
         {
           "name":  "Johnny Isakson",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Johnny Isakson was born in Atlanta, Georgia. Isakson was elected into the Georgia House of Representatives in 1976 and stayed for seven terms. Isakson was selected into the US House of Representatives in 1999 in a sepcial election. Isakson was elected US Senator for Georgia in 2004.",
           "img": "/pics/JohnnyIsakson.jpg",
-          "platform1": "Agrees to tougher border security to limit illegal immigration.",
-          "platform2": "Agrees to forbidding human cloning.",
-          "platform3": "Agrees on banning gay adoptions."
+          "platform1": "Supported tougher border security to limit illegal immigration.",
+          "platform2": "Supported forbidding human cloning.",
+          "platform3": "Supported banning gay adoptions."
         },
         { "name": "Lee Benedict", "party": "Republican" },
         { "name": "Derrick Grayson", "party": "Republican" }]
@@ -276,12 +276,12 @@
         {
           "name":  "Brian Schatz",
           "party": "Democrat",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Schatz was born in Ann Arbor, Michigan and attended Pomona College. Schatz was elected into the Hawaii House of Representatives in 1998. Schatz won the special election for US Senate in 2014.",
           "img": "/pics/BrianSchatz.jpg",
-          "platform1": "Agrees to support renewable energy.",
-          "platform2": "Agrees to support same-sex marraige.",
-          "platform3": "Agrees on expand background checks for gun purchases."
+          "platform1": "Supported renewable energy.",
+          "platform2": "Supported same-sex marriage.",
+          "platform3": "Supported expand background checks for gun purchases."
         },
         { "name": "Charles Collins", "party": "Republican" }]
   },
@@ -301,12 +301,12 @@
         {
           "name":  "Mike Crapo",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Capo was born in Idaho Falls, Idaho and attended Brigham Young University and Harvard Law School. He ran for state senate in 1982 and served until 1992. He was elected into the US House of Representatives in 1992. Crapo was elected to the U.S. Senate in 1998.",
           "img": "/pics/MikeCrapo.jpg",
-          "platform1": "Opposes Obama's health reform.",
-          "platform2": "Opposes expanding background checks for gun buyers",
-          "platform3": "Agrees to support land conservations."
+          "platform1": "Opposed Obama's health reform.",
+          "platform2": "Opposed expanding background checks for gun buyers",
+          "platform3": "Supported land conservations."
         }]
   },
 {
@@ -325,12 +325,12 @@
         {
           "name":  "Mark Kirk",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Kirk was born in Champaign, Illinois and attended cornell University. He enlisted into the military as an intelligence officer. Then, he joined the U.S. House of Representatives in 2000. In 2010, he won the U.S. Senate elction.",
           "img": "/pics/MarkKirk.jpg",
-          "platform1": "Agrees to support pro-choice abortions.",
-          "platform2": "Opposes corrupted officials",
-          "platform3": "Agrees to re-authorized Violence Against Women Act."
+          "platform1": "Supported pro-choice abortion.",
+          "platform2": "Opposed corrupted officials",
+          "platform3": "Supported re-authorization of Violence Against Women Act."
         },
         { "name": "James Marter", "party": "Republican" },
         { "name": "Tammy Duckworth", "party": "Democrat" },
@@ -353,12 +353,12 @@
         {
           "name":  "Baron Hill",
           "party": "Democrat",
-          "incumbent": "No",
+          "incumbent": false,
           "bio": "Baron Hill was a member of the Indiana House of Representatives from 1982 to 1990. He was also a member of the Blue Dog Coalition. He owns a lobbying firm that represents Cook Industries.",
           "img": "/pics/BaronHill.jpg",
-          "platform1": "Agrees to support marraige rights regardless of gender.",
-          "platform2": "Agrees to support the Patient Protection and Affordable Care Act.",
-          "platform3": "Agrees to support 'No Child Left Behind Act'."
+          "platform1": "Supported marriage rights regardless of gender.",
+          "platform2": "Supported the Patient Protection and Affordable Care Act.",
+          "platform3": "Supported 'No Child Left Behind Act'."
         },
         { "name": "Marlin Stutzman", "party": "Republican" },
         { "name": "Todd Young", "party": "Republican" }]
@@ -379,12 +379,12 @@
         {
           "name":  "Chuck Grassley",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Chuck Grassley was born in New Harford, Iowa and attnded Iowa State Teachers College. He was elected into the U.S. Senate in 1980. Grassley pushed for increasing the level of taxation on American citizens living aboard.",
           "img": "/pics/ChuckGrassley.jpg",
-          "platform1": "Support wind energy development.",
-          "platform2": "Opposes to Obama HealthCare Act.",
-          "platform3": "Supports pro-life."
+          "platform1": "Supported wind energy development.",
+          "platform2": "Opposed to Obama HealthCare Act.",
+          "platform3": "Supported pro-life."
         },
         { "name": "Rob Hogg", "party": "Democrat" },
         { "name": "Tom Fiegen", "party": "Democrat" },
@@ -406,12 +406,12 @@
         {
           "name":  "Jerry Moran",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Jerry Moran was born in Great Bend, Kansas and attended University of Kansas. He was elected into the U.S. House of Representatives in 1996. He ran and was elected to the U.S. Senate in 2010.",
           "img": "/pics/JerryMoran.jpg",
-          "platform1": "Support strong national defense.",
-          "platform2": "Opposes to Obama HealthCare Act.",
-          "platform3": "Supports gun rights."
+          "platform1": "Supported strong national defense.",
+          "platform2": "Opposed to Obama HealthCare Act.",
+          "platform3": "Supported gun rights."
         },
         { "name": "Patrick Wiesner ", "party": "Democrat" }]
   },
@@ -431,12 +431,12 @@
         {
           "name":  "Rand Paul",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Rand Paul was born in Pittsburgh, Pennsylvania and attended Baylor University and Duke University. After completing his residency in ophthalmology, he moved to Kentucky. Due to his father's, U.S. Senator Phil Gramm's, influence and political supporters, Paul ran for U.S. Senate in 2010 and was elected.",
           "img": "/pics/RandPaul.jpg",
-          "platform1": "Support cutting federal spending by reduncing international aid.",
-          "platform2": "Opposes to bailing out Detriot after bankruptcy.",
-          "platform3": "Opposes the use of drones within the United States."
+          "platform1": "Supported cutting federal spending by reduncing international aid.",
+          "platform2": "Opposed to bailing out Detriot after bankruptcy.",
+          "platform3": "Opposed the use of drones within the United States."
         },
         { "name": "Jim Gray", "party": "Democrat" },
         { "name": "Rory Houlihan", "party": "Democrat" },
@@ -464,19 +464,19 @@
         {
           "name":  "Charles Boustany",
           "party": "Republican",
-          "incumbent": "Yes",
+          "incumbent": true,
           "bio": "Charles Boustany was born in Lafayette, Louisiana and attended University of Louisiana at Lafayette. Boustany was elected into the U.S. House of Representatives in 2004. He purchase a bogus European title from fraudsters;",
           "img": "/pics/CharlesBoustany.jpg",
-          "platform1": "Support strict American-Mexican border.",
-          "platform2": "Supports the United States farm bill.",
-          "platform3": "Support cleaning up undetonated cluster bombs"
+          "platform1": "Supported strict American-Mexican border.",
+          "platform2": "Supported the United States farm bill.",
+          "platform3": "Supported cleaning up undetonated cluster bombs"
         },
         { "name": "Joseph Cao", "party": "Republican" },
         { "name": "John Fleming", "party": "Republican" },
         { "name": "John Kennedy", "party": "Republican" },
         { "name": "Rob Maness", "party": "Republican" },
         { "name": "Troy Hebert", "party": "Independent" },
-        { "name": "Caroline Fayard", "party": "(Democrat" }]
+        { "name": "Caroline Fayard", "party": "Democrat" }]
   },
 {
   "state": "Louisiana",
@@ -506,12 +506,12 @@
         {
           "name":  "Donna Edwards ",
           "party": "Democrat",
-          "incumbent": "No",
+          "incumbent": false,
           "bio": "Edwards was born in Yanceyville, North Carolina and attended the University of New Hampshire School of Law. Edwards co-founded and serve as the first executive director of the National Network to End Domestic Violence. In 2008, Edwards was elected into the U.S. House of Representative.",
           "img": "/pics/DonnaEdwards.jpg",
-          "platform1": "Support and advocated for women in domestic violence.",
-          "platform2": "Supports getting a living wage for working people.",
-          "platform3": "End capital punishment."
+          "platform1": "Supported and advocated for women in domestic violence.",
+          "platform2": "Supported getting a living wage for working people.",
+          "platform3": "Supported end capital punishment."
         },
         { "name": "Freddie Donald Dickson Jr.", "party": "Democrat" },
         { "name": "Ralph Jaffe", "party": "Democrat" },
@@ -601,16 +601,16 @@
         {
           "name":  "Roy Blunt",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio": "Roy Blunt was born in Niangua, Missouri and attended Missouri State University. In 1984, Blunt became the Secretary of State for Missouri. Blunt was elected into the U.S. House of Represenatatives in 1998. In 2010, Blunt was elected to be a U.S. senator.",
+          "incumbent": true,
+          "bio": "Roy Blunt was born in Niangua, Missouri and attended Missouri State University. In 1984, Blunt became the Secretary of State for Missouri. Blunt was elected into the U.S. House of  Representatives in 1998. In 2010, Blunt was elected to be a U.S. senator.",
           "img": "/pics/RoyBlunt.jpg",
-          "platform1": "Oppose the HealthCare Reform by democrates.",
-          "platform2": "Opposes lawsuit against gun manufactures and dealers if they sold a gun used for violence later.",
-          "platform3": "Supports drilling oil on the U.S. coastline."
+          "platform1": "Opposed the HealthCare Reform by democrates.",
+          "platform2": "Opposed lawsuit against gun manufactures and dealers if they sold a gun used for violence later.",
+          "platform3": "Supported drilling oil on the U.S. coastline."
         },
-        { "name": "Christopher Batsche", "party": "(Republican" },
-        { "name": "Jason Kander", "party": "(Democrat" },
-        { "name": "MD Rabbi Alam", "party": "(Democrat" }]
+        { "name": "Christopher Batsche", "party": "Republican" },
+        { "name": "Jason Kander", "party": "Democrat" },
+        { "name": "MD Rabbi Alam", "party": "Democrat" }]
   },
 {
   "state": "Missouri",
@@ -652,12 +652,12 @@
         {
           "name":  "Catherine Cortez Masto",
           "party": "Democrat",
-          "incumbent": "No",
+          "incumbent": false,
           "bio": "Cortez Masto was born in Las Vegas, Nevada and attended University of Nevada, Reno. Cortez Masto is a Nevada Attorney General and her office began investigating Bank of America for raising interest on borrowers. Cortez Masto was endorsed by retiring U.S. Senator Harry Reid as successor.",
           "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "Opposes same-sex marriage.",
-          "platform2": "Supports the raise of minimum wage.",
-          "platform3": "Supports immigration and wants pathway for unodcumented immigrants to citizenship."
+          "platform1": "Opposed same-sex marriage.",
+          "platform2": "Supported the raise of minimum wage.",
+          "platform3": "Supported immigration and wants pathway for unodcumented immigrants to citizenship."
         },
         { "name": "Joe Heck", "party": "Republican" }]
   },
@@ -677,12 +677,12 @@
         {
           "name":  "Kelly Ayotte",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
+          "incumbent": true,
+          "bio":"Ayotte was born in Nashua, New Hampshire and attended Pennsylvania State University. Ayotte became New Hampshire Attorney General in 1998. Ayotte was elected into U.S. Senate when her predcessor retired.",
+          "img": "/pics/KellyAyotte.jpg",
+          "platform1": "Supported the right to bear arms.",
+          "platform2": "Supported perserving the environment.",
+          "platform3": "Supported pro-life abortion."
         },
         { "name": "Maggie Hassan", "party": "Democrat" }]
   },
@@ -726,12 +726,12 @@
         {
           "name":  "Chuck Schumer",
           "party": "Democrat",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
+          "incumbent": true,
+          "bio":"Schumer was born in Brooklyn, New York and he attended Harvard College. Schumer was elected into the New York State Assembly in 1974. IN 1998, he aws elected into the U.S. Senate.",
+          "img": "/pics/CharlesSchumer.jpg",
+          "platform1": "Opposed nulcear deal with Iran",
+          "platform2": "Supported President Barack Obama's Health Reform",
+          "platform3": "Supported pro-choice"
         }]
   },
 {
@@ -743,20 +743,27 @@
 {
   "state": "North Carolina",
   "senator": "Richard Burr",
-  "party":	"Democrat",
+  "party":	"Republican",
   "election": true,
   "candidates":
       [
         {
           "name":  "Richard Burr",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Burr was born in Charlottesvile, Virginia and attended Wake Forest University. Blurr worked 17 years as a sales manager before he joined the U.S. House of Representatives in 1992. In 2004, Blurr was elected into the U.S. Senate.",
+          "img": "/pics/RichardBurr.jpg",
+          "platform1": "Supported the right to bear arms.",
+          "platform2": "Supported for the reautorization of the Violence Against Women Act",
+          "platform3": "Opposed the regulation of the tobacco industry by U.S. Food and Drug Administration."
+        },
+        { "name": "Greg Brannon", "party": "Republican" },
+        { "name": "Larry Holmquist", "party": "Republican" },
+        { "name": "Paul Wright", "party": "Republicant" },
+        { "name": "Deborah Ross", "party": "Democrat" },
+        { "name": "Chris Rey", "party": "Democrat" },
+        { "name": "Kevin Griffin", "party": "Democrat" },
+        { "name": "Ernest Reeves", "party": "Democrat" }]
   },
 {
   "state": "North Carolina",
@@ -774,13 +781,14 @@
         {
           "name":  "John Hoeven",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Hoeven was born in Bismarck, North Dakota and attended Dartmouth College. Hoeven was a banker before he was elected to be the Governor of North Dakota in 2000. Hoeven was elected into U.S. Senate in 2010.",
+          "img": "/pics/JohnHoeven.jpg",
+          "platform1": "Supported compensation of teachers",
+          "platform2": "Supported pro-life",
+          "platform3": "Opposed same-sex marriage"
+        },
+        { "name": "Robert Marquette", "party": "Libertarian" }]
   },
 {
   "state": "North Dakota",
@@ -798,13 +806,17 @@
         {
           "name":  "Rob Portman",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Portman was born in Cincinnati, Ohio and attended Darthmouth College. Portman became a White House Counsel in 1989. In 1993, Portman was elected into the U.S. House of  Representatives. He won the U.S. Senate election in 2010.",
+          "img": "/pics/RobPortman.jpg",
+          "platform1": "Opposed the Affordable Care Act.",
+          "platform2": "opposed the Law of Sea Treaty",
+          "platform3": "Supported a balanced budget amendment."
+        },
+        { "name": "Don Elijah Eckhart", "party": "Republican" },
+        { "name": "P.G. Sittenfeld", "party": "Democrat" },
+        { "name": "Ted Strickland", "party": "Democrat" },
+        { "name": "Kelli Prather", "party": "Democrat" }]
   },
 {
   "state": "Ohio",
@@ -822,12 +834,12 @@
         {
           "name":  "James Lankford",
           "party": "Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
+          "incumbent": true,
+          "bio":"Lankford was born in Dallas, Texas and attended University of Texas at Austin. Post graudation, Lankford became the program director for a Christan camp. Lankford was elected into the U.S. House of Representatives in 2010. He was also elected into the U.S. Senate through a special election in 2014. ",
+          "img": "/pics/JamesLankford.jpg",
+          "platform1": "Opposed same-sex marriage.",
+          "platform2": "Oppsed abortion.",
+          "platform3": "Supported loosening gun restrictions."
         }]
   },
 {
@@ -846,13 +858,17 @@
         {
           "name":  "Ron Wyden",
           "party": "Democrat",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Wyden was born in Wichita, Kansas and attended Stanford University. Wyden was a professor teaching gerotology before he ran for the U.S. House of Representatives in 1980. He was elected to U.S. Senate in 1996.",
+          "img": "/pics/RonWyden.jpg",
+          "platform1": "Supported free trade.",
+          "platform2": "Supported legal abortion.",
+          "platform3": "Supported same-sex marriage."
+        },
+        { "name": "Mark Callahan", "party": "Republican" },
+        { "name": "Dan Laschober", "party": "Republican" },
+        { "name": "Faye Stewart ", "party": "Republican" },
+        { "name": "Kevin Stiner", "party": "Democrat" }]
   },
 {
   "state": "Oregon",
@@ -870,13 +886,17 @@
         {
           "name":  "Pat Toomey",
           "party":	"Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Toomey was born in Providence, Rhode Island and attended Harvard College. Toomey worked in the bank before he was elected into the U.S. House of Representatives in 1998. Toomey did not run again in 2004 because he vowed to serve only three terms. Therefore, he ran for U.S. Senate in 2004 but was defeated. He won the U.S. Senate election in 2010.",
+          "img": "/pics/PatToomey.jpg",
+          "platform1": "Opposed abortions.",
+          "platform2": "Supported the icnrease of charter schools.",
+          "platform3": "Supported reducing gun restrictions."
+        },
+        { "name": "Everett Stern ", "party": "Republican" },
+        { "name": "Kathleen McGinty ", "party": "Democrat" },
+        { "name": "Joe Sestak", "party": "Democrat" },
+        { "name": "John Fetterman ", "party": "Democrat" }]
   },
 {
   "state": "Pennsylvania",
@@ -906,13 +926,14 @@
         {
           "name":  "Tim Scott",
           "party":	"Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Scott was born in North Charleston, South Carolina and attended Presbyterain College. Scott owns an insurance agency. He was involved in the Charleston County Council, South Carolina House of Representatives and U.S. House of Representatives before he ran for U.S. Senate in a special election in 2014. Scott is the first African American to serve as U.S. Senator from South Carolina.",
+          "img": "/pics/TimScott.jpg",
+          "platform1": "Supported the decrease of federal spending and taxes.",
+          "platform2": "Opposed the 2010 health care reform law.",
+          "platform3": "Opposed to abortions."
+        },
+        { "name": "Joyce Dickerson", "party": "Democrat" }]
   },
 {
   "state": "South Carolina",
@@ -930,12 +951,12 @@
         {
           "name":  "John Thune",
           "party":	"Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
+          "incumbent": true,
+          "bio":"Thune was born in Murdo, South Dakota and attended Biola University. He worked as a legistlative aide till he ran for U.S. House of Representatives in 1997. Eventually, Thune ran for U.S. Senate in 2005 and won.",
+          "img": "/pics/JohnThune.jpg",
+          "platform1": "Supported gun rights",
+          "platform2": "Supported to increase of veterans' benefit.",
+          "platform3": "Supported development of alternative energy sources."
         }]
   },
 {
@@ -976,15 +997,16 @@
   "candidates":
       [
         {
-          "name":  "Mike Lee ",
+          "name":  "Mike Lee",
           "party":	"Republican",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Lee was born in Mesa, Arizona and attend Brigham Young University. Lee served as a law clerk before he was elected into the U.S. Senate in 2010. Lee strongly believes the importance of being able to express his political views since childhood.",
+          "img": "/pics/MikeLee.jpg",
+          "platform1": "Supported reducing tax for foreign earnings.",
+          "platform2": "Supported wild-fire prevention projects.",
+          "platform3": "Supported social security reform."
+        },
+        { "name": "Jonathan Swinton", "party": "Democrat" }]
   },
 {
   "state": "Utah",
@@ -1002,12 +1024,12 @@
         {
           "name":  "Patrick Leahy",
           "party":	"Democrat",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
+          "incumbent": true,
+          "bio":"Leahy was born in Montpelier, Vermont and attend Saint Michael's College. Leahy was elected into U.S. Senate in 1974. He was the first non-Republican Senator from Vermont since mid-19tth century.",
+          "img": "/pics/PatrickLeahy.jpg",
+          "platform1": "Supported abortion rights",
+          "platform2": "Supported using alternative energy sources.",
+          "platform3": "Supported gun control."
         }]
   },
 {
@@ -1038,13 +1060,14 @@
         {
           "name":  "Patty Murray",
           "party":	"Democrat",
-          "incumbent": "Yes",
-          "bio":"",
-          "img": "/pics/CatherineCortezMasto.jpg",
-          "platform1": "",
-          "platform2": "",
-          "platform3": ""
-        }]
+          "incumbent": true,
+          "bio":"Murray was born in Bothell, Washington and attended Washington State University. Murray was a lobbyist for environmental and educational issues. She was elected into U.S. Senate in 1993.",
+          "img": "/pics/PattyMurray.jpg",
+          "platform1": "Opposed invading Iraq.",
+          "platform2": "Supported improve border security and punishment for illegal immigrants.",
+          "platform3": "Supported providing healthcare access to women."
+        },
+        { "name": "Chris Vance", "party": "Republican" }]
   },
 {
   "state": "Washington",
@@ -1075,13 +1098,14 @@
           {
             "name":  "Ron Johnson",
             "party":	"Republican",
-            "incumbent": "Yes",
-            "bio":"",
-            "img": "/pics/CatherineCortezMasto.jpg",
-            "platform1": "",
-            "platform2": "",
-            "platform3": ""
-          }]
+            "incumbent": true,
+            "bio":"Johnson was born in Mankato, Minnesota and attended Univesristy of Minnesota. Johnson worked at PACUR and eventually became the CEO. He was elected to the U.S. SEnate in 2010. ",
+            "img": "/pics/RonJohnson.jpg",
+            "platform1": "Opposed abortions.",
+            "platform2": "Opposed Affordable Care Act.",
+            "platform3": "Supported gun rights."
+          },
+          { "name": "Russ Feingold ", "party": "Democrat" }]
     },
   {
     "state": "Wisconsin",
